@@ -1,4 +1,3 @@
-package Java_Programming;
 // This is a Boilerplate Code !!! ✅
 /*
 public class JavaBasics {
